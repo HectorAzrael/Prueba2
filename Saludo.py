@@ -5,6 +5,5 @@ def saludar(nombre):
     return mensaje
 
 if __name__ == "__main__":
-    nombre = input("Ingresa tu nombre: ")
+    nombre = input("Agrega tu nombre: ")
     print(saludar(nombre))
-
